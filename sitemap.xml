@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap für KI-Magie · Fortbildungsreihe Künstliche Intelligenz
+  Hinweis: Vor dem Push die Basis-URL anpassen.
+  Standard-GitHub-Pages-URL: https://USERNAME.github.io/REPOSITORY/
+  Eigene Domain: https://deine-domain.de/
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/01-ki-im-alltag.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/02-ai-literacy-lehrende.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/03-ai-literacy-lernende.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/04-technologiewissen.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/05-praktische-anwendung.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/06-potenziale-bildung.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/07-potenziale-alltag.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/08-ethik-zukunft.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/09-didaktischer-einsatz.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/10-einfuehrung-unterricht.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/11-datenschutz.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/lernideen-bildung.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPOSITORY/pages/lernideen-alltag.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
